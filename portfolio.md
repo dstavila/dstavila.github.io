@@ -4,20 +4,22 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-## PRE-GAME PREP (2017-2018)
+## PRE-GAME PREP (2017-2020)
 <iframe src="https://player.vimeo.com/video/249972338?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-**Tech:** C#, Unity3D Engine, C++, Qt, Python, ASP.net, RavenDB
+**Tech:** C#, Unity3D Engine, C++, Qt, QML, Python, ASP.net, RavenDB, Mongo, Redis, Tensorflow
+
+**Platforms:** Desktop (Windows), HoloLens, Magic Leap, Oculus Rift/Quest
 
 **Role:** Lead Developer
 
-**Contribution:** Application architecture, Backend development, Shader development, Performance optimization, UI programming, Pipeline tools development.
+**Contribution:** Application architecture, Backend development, Shader development, Performance optimization, UI programming, neural net base image recognition, Pipeline tools development.
 
 **Description:** Pre-GamePrep with HoloReps is the next level of immersive, interactive training and game day preparation for professional and college football teams. Players don’t just study and memorize the playbook–they experience it anytime, anywhere.
 
 Whether it is the Digital Walkthrough projection system designed for team practices or the mixed reality HoloReps system that merges holographic players with the practice field, players from any position can step through their playbook or prep for upcoming opponents, gaining mental reps as well as the muscle memory of in-person training.
 
-**Credits:** This project was a collective effort of my team at [MixedRiver](http://mixedriver.com/).
+**Credits:** This project was a collective effort of my team at [ByteCubed Labs](http://bytecubedlabs.co).
 
 
 
