@@ -5,8 +5,7 @@ permalink: /portfolio/
 ---
 
 ## PRE-GAME PREP (2017-2020)
-<iframe src="https://player.vimeo.com/video/249972338?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
+![](../public/pgp.jpg)
 **Tech:** C#, Unity3D Engine, C++, Qt, QML, Python, ASP.net, RavenDB, Mongo, Redis, Tensorflow
 
 **Platforms:** Desktop (Windows), HoloLens, Magic Leap, Oculus Rift/Quest
