@@ -12,7 +12,7 @@ permalink: /portfolio/
 
 **Role:** Lead Developer
 
-**Contribution:** Application architecture, Backend development, Shader development, Performance optimization, UI programming, neural net base image recognition, Pipeline tools development.
+**Contribution:** Application architecture, Backend development, Shader development, Performance optimization, UI programming, Neural net base image recognition, Pipeline tools development.
 
 **Description:** Pre-GamePrep with HoloReps is the next level of immersive, interactive training and game day preparation for professional and college football teams. Players don’t just study and memorize the playbook–they experience it anytime, anywhere.
 
@@ -45,7 +45,7 @@ Whether it is the Digital Walkthrough projection system designed for team practi
 
 **Contribution:** Gameplay programming, Performance and visuals optimization
 
-**Description:** TODO
+**Description:** Planet3, the interactive, exploration based learning company, enlisted Bully to concept, design and develop a series of large scale, interactive learning modules for their STEM-based platform, create key game assets and produce a suite of high production-value, promotional materials.
 
 **Credits:** This project was a collective effort of my team at [Bully! Entertainment](http://bullyentertainment.com/).
 
